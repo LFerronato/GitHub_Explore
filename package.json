@@ -1,7 +1,7 @@
 {
   "name": "05-primeiro-projeto-react",
   "version": "0.1.0",
-  "homepage": "https://git.lucasferronato.com/GitHub_Explorer",
+  "homepage": "https://lferronato.github.io/GitHub_Explorer",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
