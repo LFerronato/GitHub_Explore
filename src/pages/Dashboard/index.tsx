@@ -70,7 +70,7 @@ const Dashboard: React.FC = () => {
       <img src={logoImg} alt="logo do Github Explore" />
       {/* {repositories.map(r => (<p>{r.id}</p>))} */}
       <Title>Explore repositórios no Github.</Title>
-
+      <p style={{color: "#888"}}>ex. "LFerronato/ES-Trader_Site"</p>
       <Form hasError={!!inputError} onSubmit={handleAddRepository}>
         <input
           placeholder="Digite o nome do repositório"

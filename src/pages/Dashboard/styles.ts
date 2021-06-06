@@ -8,13 +8,13 @@ export const Title = styled.h1`
   line-height: 56px;
 
   margin-top: 80px;
+  margin-bottom: 40px;
 `
 
 interface FormProps {
   hasError: boolean
 }
 export const Form = styled.form<FormProps>`
-  margin-top: 40px;
   max-width: 700px;
 
   display: flex;
